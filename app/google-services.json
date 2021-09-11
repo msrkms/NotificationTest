@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "918962635468",
+    "project_id": "notificationtest-b6df2",
+    "storage_bucket": "notificationtest-b6df2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:918962635468:android:81dcd71f3d84aa83b1b869",
+        "android_client_info": {
+          "package_name": "com.sajidur.notificationtest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "918962635468-ojb00gkkq58vq5kf345dqj5fipntmmn0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1_DICKRtih8BxPmuCVDUMljZfu4Vio1U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "918962635468-ojb00gkkq58vq5kf345dqj5fipntmmn0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
