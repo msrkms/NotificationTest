@@ -61,7 +61,7 @@ class MyFirebaseMessagingService: FirebaseMessagingService() {
 
     @SuppressLint("RemoteViewLayout")
     private fun getRemoteView(title:String, body:String):RemoteViews{
-        val remoteViews=RemoteViews("com.doctormd.doctor",R.layout.notification_layout)
+        val remoteViews=RemoteViews("com.sajidur.notificationtest",R.layout.notification_layout)
         remoteViews.setTextViewText(R.id.title,title)
         remoteViews.setTextViewText(R.id.body,body)
         return  remoteViews
